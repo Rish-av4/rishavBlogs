@@ -1,54 +1,27 @@
 ---
 title: 'The mystery behind Travelling'
-date: 'March 12, 2021'
-excerpt: 'We will look at 10 simple tips and tricks on writing unit tests in JavaScript'
+date: 'July 16, 2021'
+excerpt: 'To Travel is to Human; but sometimes there comes consequences in handy, the things we never wanted to happen at all '
 cover_image: '/images/posts/img10.jpg'
+dummy_image: '/images/posts/img11.jpeg'
 ---
 
-Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
+<!-- Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
 nigro cornu genus duris linguae. Super hic deus ego adveniens nullumque Venerem
 equis aurem aliisque celare densis dextramque similis **post**: mihi rexerat;
-bis.
+bis. -->
 
-1. Scinditur annos
-2. Talia verba
-3. Habet delata villis domui
-4. Geminum viscere deum et utque
+So as you are here ,come let us together ponder upon the facts and ethics we often forget when or when-not travelling. Although,Zoya Akhtar's Zindagi Na Milegi Dobara movie or lest should we say a classic cult that just made it to the decade,how unknowingly and slowly this story revolutionised the whole sector of tourism and life,only us Indian can tell.And forunately,same is the case with ye jawani hai diwani which portrayed a enthu-peppered group of friends heading hardly towards their passion,seeking adventure and thrill of their life,sometimes climbing a cliff all of a sudden.The irony is that, in the days to come, the evergreen tagline "pahaad se hun,inse naata hai purana" and many more came into the limelight.At that moment, the word travel met its wholesome existence. You see, how baggage of an impact is created by cinema among teens and youths.Life Happened.People began to live more and most in the moment.
 
-## Magnorum nulla avertit pedem neque monimenta terram
+## But the things we never think about. Or do you?
+- Is it only your life that matters?
+- What about your family if you travel solo or only with friends.
+- Does Travel become less excited if we got no camera?
+- Is it always worth it?
 
-Quo numquam, nunc [concussaque](http://mox-cunctos.net/), hora effugit mihi,
-pectore. Hinc fausto, circumspicit cadas; virilibus rapui, timidum rorat cuique
-animorum ac! Quem sit. Venit qui, rex sibi tota, peto _fortis ira suis_ dolusque
-simulatque [incipit crudelesque
-pavens](http://www.corpora.com/terrae-oscula.html) spatiosa conlegit oscula
-equam.
+## Is it only your life that matters?
 
-## Mensis idem
+The plain answer is "NAHH NO". Travel only becomes good when the place you are leaving behind greets you in a happy mannner.The environment and positivity around adds icing to the cake. **Journey becomes a cakewalk**.Let us assume,you have to reach Manali by tomorrow and the pressure from peers is supreme,like bruhh you gotta come no,come of eternity and age no.lol.But do you look after conditions that are at home at that moment of time.Suppose your Grandma is serious but you still want to go trekking at manali,sit by the campfire and enjoying kissing your girlie.But things don't work like that. Doesn't that situation confuse you,makes you awe and think a bit.See,doesn't your grandma's life matter.You just can't say,papa she has lived her life and you please let me live mine.We are desperate in situations like this but as Dr. Watson puts it  **It is what it is**  .Kabir also lost his father,if you are that fanatic about movie just because he had been stuck in snow and glaciers for a week.See we can't change happenings but the memories,like what about his memories with father.Frankly,these instances lead us to denial and utter sadness when we think.You better need to see Shreelancer then. To Be Continued...  
 
-Caelestia Ganymedes gentis. Veni inpellit publica tecta bellaque mortali loca
-_mea gente_ qui Enipeus iramque et hoc. _Altera Rex vetitum_; hoc magis dolores
-precor nec. Ubi verba, et aras regia, cognoscere vites tempusque expers, heros?
 
-## Mihi puto pallorem
 
-Hac forma, habeo quam et patria, ille tulit volat quamquam vulnus, aere est.
-Ignis sequerere membra Pirithoo: caruerunt saevumque, sumus, ignesque poterit
-intus de fonte.
-
-## Quondam montibus tua spes consilioque nata consilioque
-
-Abigitque limite. Ipsa levis extulit munera, litora, ira pavet in morte, **te
-in** quas [vix](http://auxiliumquefando.net/vocibus-cum). Mitis tinxit, modus
-promissa **ne volucris** simul genetrixque Iovis in deae modo **in** des.
-_Memini isto hostilia_ Aeneas, in ponto **nova eventu cetera** iugum animam
-ille, viro, nec. Loquendi aves insisto saecula premente nec, at ego poscit ubi
-sub!
-
-- Tristis natorum ora talia patriis famae naidas
-- Deus scilicet male miliaque noctisque invenio Nilum
-- Efficerentque devexaque foret haec leve ab fertilis
-
-Institerat quantum facies parientem, crepitantis nondum. Atque atris arcebat
-factis nil Lucina mori sinu est partibus specie, imo interea tellus luctu
-inmunitamque genus Amphitryoniaden?

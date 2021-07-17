@@ -16,6 +16,7 @@ export default function Post({ post }) {
       <Link href={`/blog/${post.slug}`}>
         <a className='btn'>Read More</a>
       </Link>
+      
 
       </div>
   );

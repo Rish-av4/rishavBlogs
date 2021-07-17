@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-image: linear-gradient(rgb(206, 252, 208),rgb(250, 243, 182),rgb(135, 186, 245));
+  background-image: linear-gradient(rgb(236 219 219),white,#efd3d3);
  
 }
 
@@ -112,6 +112,16 @@ ol {
   padding: 20px;
   margin: 20px 0;
   line-height: 2.3;
+}
+
+.description{
+  background-color: white;
+  border-radius: 32px;
+  text-align: center;
+  font-family: monospace;
+  padding: 10px;
+  box-shadow: 0px 2px 5px #0a0a0a;
+  border: 1px;
 }
 
 @media (max-width: 500px) {
