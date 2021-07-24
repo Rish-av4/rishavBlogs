@@ -27,6 +27,11 @@ img {
   border-radius: 10px;
 }
 
+.bottom-image{
+  border-radius: 34%;
+  box-shadow: 2px 1px 13px black;
+
+}
 header {
   background: steelblue;
   color: #fff;

@@ -1,8 +1,8 @@
 ---
-title: 'Python Book Review'
+title: 'Marcus Aurelius Words'
 date: 'March 7, 2021'
-excerpt: 'In this review, we will be looking at the new Python book from Oriley'
-cover_image: '/images/posts/img6.jpg'
+excerpt: 'Stoicism and all theories about life culminating various evidences and truths'
+cover_image: '/images/posts/img14.jpg'
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat

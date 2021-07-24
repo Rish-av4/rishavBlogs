@@ -1,8 +1,8 @@
 ---
-title: 'Django Crash Course'
-date: 'March 5, 2021'
-excerpt: 'Django is a very powerful, high level Python framework for building web applications'
-cover_image: '/images/posts/img3.jpg'
+title: 'Peaky Blinders Hype yo!'
+date: 'July 24, 2021'
+excerpt: 'Innn a gathering storm comes a tall handsome man with a dusty coat and a red right hand...'
+cover_image: '/images/posts/img16.jpeg'
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
