@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Provider, LikeButton,ClapButton } from "@lyket/react";
+import { Provider, LikeButton, ClapButton } from "@lyket/react";
 // import { Provider, ClapButton } from "@lyket/react";
 
 
@@ -25,11 +25,6 @@ export default function Post({ post }) {
           namespace="my-blog-post"
           id="how-to-beat-me-at-chess"
         />
-          <ClapButton
-          namespace="my-blog-post"
-          id="applause-react"
-        />
-      
       </Provider>
 
 

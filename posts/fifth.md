@@ -1,7 +1,7 @@
 ---
 title: 'Thinking ,Slow and Fast'
 date: 'March 8, 2021'
-excerpt: 'A thought provoking book that deals with the psychology of human minds and how "the two systems" are impacting our lives. '
+excerpt: 'A thought provoking book that deals with the psychology of human minds and how "the two systems" impact our lives. '
 cover_image: '/images/posts/img9.jpeg'
 ---
 
