@@ -16,9 +16,7 @@ export default function Home({ posts }) {
         <title>Rishav&apos;s Blog </title>
       </Head>
       <h1 className="description" >
-        {/* Hey now you have come to some good place.It&apos;s gonna be fun ride
-        together.So, T'is my Blog! */}
-        I've got stories to tell and a life to realize.
+        I have got stories to tell and a life to realize.
         Welcome mate ;) 
       </h1>
 
@@ -27,21 +25,6 @@ export default function Home({ posts }) {
           <Post key={index} post={post} />
         ))}
       </div>
-
-      {/* <FacebookShareButton
-        url={'https://github.com/next-share'}
-        quote={'next-share is a social share buttons for your next React apps.'}
-        hashtag={'#nextshare'}
-      >
-        <FacebookIcon size={32} round />
-      </FacebookShareButton> */}
-
-      {/* <TwitterShareButton
-        url={'https://github.com/next-share'}
-        title={'next-share is a social share buttons for your next React apps.'}
-      >
-        <TwitterIcon size={32} round />
-      </TwitterShareButton> */}
    
 
     </div>
