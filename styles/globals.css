@@ -10,7 +10,12 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: darkorange;
   /* background-image: linear-gradient(rgb(236 219 219),white,#efd3d3); */
+  background: url(../public/images/posts/img22.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 p {
@@ -33,10 +38,12 @@ img {
   box-shadow: 2px 1px 13px black;
 }
 header {
-  background: steelblue;
-  color: #fff;
-  padding: 5px;
+  background: rgb(247, 245, 245);
+  color: rgb(12, 12, 12);
+  padding: 13px;
   margin-bottom: 40px;
+  opacity: 0.6;
+
 }
 header a {
   color: #fff;
@@ -47,8 +54,10 @@ footer {
   padding: 5px;
   margin-top: 75px;
   text-align: end;
-  padding: 30px;
+  padding: 10px;
   font-size: 20px;
+  margin-top: 16px;
+  opacity: 0.6;
 }
 footer a {
   color: #fff;
@@ -70,8 +79,7 @@ footer a {
 
 .btn {
   display: inline-block;
-  background: steelblue;
-  color: #fff;
+  background: wheat;
   border: none;
   padding: 8px 16px;
   border-radius: 5px;
@@ -79,8 +87,8 @@ footer a {
   text-decoration: none;
   font-size: 15px;
   font-family: inherit;
+  opacity: 0.67;
 }
-
 .btn:focus {
   outline: none;
 }
@@ -104,8 +112,29 @@ footer a {
 
 .card {
   padding: 15px;
-  border-radius: 10px;
+  /* border-radius: 10px; */
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  /* background-color: white; */
+  color: white;
+  border: 2px solid white;
+  /* border-radius: 18px; */
+
+}
+.card-ty
+{
+border-radius: 0%;
+
+
+}
+
+#yo
+{
+  height: 243px;
+}
+
+#yo2{
+  height: 335px;
+  width: 327px;
 }
 
 .card-page {
@@ -120,6 +149,10 @@ footer a {
   background: #f4f4f4;
   margin-bottom: 20px;
   padding: 3px 10px;
+  font-weight: bold;
+  color: black;
+  border-radius: 6px;
+  opacity: 0.6;
 }
 
 .post-body ul,
@@ -138,14 +171,14 @@ ol {
 }
 
 .description {
-  background-color: white;
+  /* background-color: white; */
   text-align: center;
   font-family: "Parisienne", cursive;
   font-size: 40px;
   padding: 10px;
-  box-shadow: 0px 2px 5px #0a0a0a;
+  /* box-shadow: 0px 2px 5px #0a0a0a; */
   border: 1px;
-  color: cornflowerblue;
+  color: white;
 }
 
 @media (max-width: 500px) {

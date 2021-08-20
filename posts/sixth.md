@@ -1,8 +1,8 @@
 ---
-title: 'Sunsets: The symbolism and calm of nature'
+title: 'Grogu : how cute one can be huh baby?'
 date: 'March 5, 2021'
 excerpt: 'Nature is the biggest creator, biggest animator of them all'
-cover_image: '/images/posts/img12.jpeg'
+cover_image: '/images/posts/img21.jpg'
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
