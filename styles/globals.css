@@ -51,17 +51,7 @@ header {
 header a {
   color: #fff;
 }
-/* footer {
-  background: #efecec;
-  color: #0d1215;
-  padding: 5px;
-  margin-top: 75px;
-  text-align: end;
-  padding: 10px;
-  font-size: 20px;
-  margin-top: 16px;
-  opacity: 0.6;
-} */
+
 
 footer {
   /* background: #0e2fe8; */
@@ -73,7 +63,6 @@ footer {
   padding: 10px;
   font-size: 20px;
   margin-top: 16px;
-  /* opacity: 0.6; */
   text-shadow: 1px 1px black;
   box-shadow: 2px 2px 17px #0e2fe8;
 }
@@ -86,9 +75,7 @@ footer a {
   margin: auto;
   overflow: auto;
   padding: 0 10px;
-  /* font-family: "Charm", cursive;
-  font-family: "Gruppo", cursive;
-  font-family: "Parisienne", cursive; */
+
 }
 
 .container h2 {
@@ -112,9 +99,7 @@ footer a {
   color:black;
   /* background-color: darkgray; */
 
-  /* background-color: blue;
-  color: white;
-  box-shadow: 0px 0px 5px blue; */
+
 }
 
 .btn:focus {
@@ -155,8 +140,6 @@ footer a {
 .card-ty
 {
 border-radius: 0%;
-
-
 }
 
 #yo
