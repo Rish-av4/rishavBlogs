@@ -17,7 +17,7 @@ export default function Home({ posts }) {
       </Head>
       <h1 className="description" >
         I have got stories to tell and a life to realize.
-        Welcome mate ;) 
+        Welcome mate ;)
       </h1>
 
       <div className="posts">
@@ -25,7 +25,17 @@ export default function Home({ posts }) {
           <Post key={index} post={post} />
         ))}
       </div>
-   
+
+
+      <div class="alert alert-danger" role="alert">
+        A simple danger alert—check it out!
+      </div>
+      <div class="alert alert-warning" role="alert">
+        A simple warning alert—check it out!
+      </div>
+
+
+
 
     </div>
   );
