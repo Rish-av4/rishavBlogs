@@ -17,7 +17,7 @@ export default function Post({ post }) {
       <p>{post.frontmatter.excerpt}</p>
 
       <Link href={`/blog/${post.slug}`}>
-        <a className='btn'>Read More</a>
+        <a className='btn btn-dark'>Read More</a>
       </Link>
 
       {/* <Provider apiKey="pt_96710d8402af31d477df4b1846e147">

@@ -1,7 +1,7 @@
 ---
 title: 'Marcus Aurelius Words'
 date: 'March 7, 2021'
-excerpt: 'Stoicism and all theories about life culminating various evidences and truths'
+# excerpt: 'Stoicism and all theories about life culminating various evidences and truths'
 cover_image: '/images/posts/img14.jpg'
 ---
 

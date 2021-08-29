@@ -1,7 +1,7 @@
 ---
 title: ' Mans Search for Meaning by Victor Frankl'
 date: 'June 3, 2021'
-excerpt: 'A real happening of life illustrating authors several experiences in Nazi Camp and hard moments. Second Part talks about Logotherapy and what the abstract meaning of life is'
+# excerpt: 'A real happening of life illustrating authors several experiences in Nazi Camp and hard moments. Second Part talks about Logotherapy and what the abstract meaning of life is'
 cover_image: '/images/posts/img15.jpg'
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 'Peaky Blinders Hype yo!'
+title: 'In a gathering storm comes '
 date: 'July 24, 2021'
-excerpt: 'Innn a gathering storm comes a tall handsome man with a dusty coat and a red right hand...'
+excerpt: 'Tommy Shelby'
 cover_image: '/images/posts/img16.jpeg'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Shades of Poem'
 date: 'March 4, 2021'
-excerpt: 'Girl and  Poetry! heck say no more <3'
+# excerpt: 'Girl and  Poetry! heck say no more <3'
 cover_image: '/images/posts/img8.jpg'
 ---
 

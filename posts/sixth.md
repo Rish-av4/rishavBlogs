@@ -1,7 +1,7 @@
 ---
 title: 'Grogu : how cute one can be huh baby?'
 date: 'March 5, 2021'
-excerpt: 'Nature is the biggest creator, biggest animator of them all'
+# excerpt: 'Nature is the biggest creator, biggest animator of them all'
 cover_image: '/images/posts/img21.jpg'
 ---
 

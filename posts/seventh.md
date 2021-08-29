@@ -1,7 +1,7 @@
 ---
 title: 'The mystery behind Travelling'
 date: 'July 16, 2021'
-excerpt: 'To Travel is to Human; but sometimes there comes consequences in handy, the things we never wanted to happen at all '
+excerpt: 'To Travel is to Human;'
 cover_image: '/images/posts/img10.jpg'
 dummy_image: '/images/posts/img11.jpeg'
 ---
