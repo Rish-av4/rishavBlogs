@@ -1,13 +1,13 @@
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Script from 'next/script'
-
 import '../styles/globals.css'
 // import '../styles/Animations.css'
 
 function MyApp({ Component, pageProps }) {
   return( 
   <> 
+  
   <Header/>
   <main className='container'>
   

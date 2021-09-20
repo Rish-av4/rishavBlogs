@@ -13,7 +13,7 @@ export default function PostPage({ frontmatter: { title, date, cover_image,dummy
             <div className="card card-page">
                 <h1 className="post-title">{title}</h1>
                 <div className="post-date">Posted on {date}</div>
-                <img src={cover_image} alt='' />
+                <img className="bitch" src={cover_image} alt='' />
                 <div className="post-body">
                     <div dangerouslySetInnerHTML={{ __html: marked(content) }}>
 

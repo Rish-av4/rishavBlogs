@@ -11,8 +11,11 @@ import { sortByDate } from "../utils";
 
 export default function Home({ posts }) {
   return (
+    <>
+
     <div>
-      <Head>
+    
+      <Head >
         <title>Rishav&apos;s Blog </title>
       </Head>
       <h1 className="description" >
@@ -38,6 +41,7 @@ export default function Home({ posts }) {
 
 
     </div>
+    </>
   );
 }
 
