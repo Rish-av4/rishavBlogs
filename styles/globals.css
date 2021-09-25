@@ -121,17 +121,18 @@ footer a {
 .card {
   padding: 15px;
   color: black;
-  border: 2px solid white;
+  /* border: 2px solid white; */
   margin: 18px -5px;
   position: inherit;
   transform: scale(0.89);
-  box-shadow: 0px 0px 0pc 0.7pc #080808;
+  /* box-shadow: 0px 0px 0pc 0.7pc #080808; */
+  border: 1px solid black;
   border-radius: 10px;
 }
 
 
 .card:hover {
-  box-shadow: 0px 3px 0px rgb(15, 15, 15);
+  box-shadow: 0px 2px 0px rgb(15, 15, 15);
 }
 
 .card-ty {
@@ -196,23 +197,32 @@ ol {
   box-shadow: 0px 0px 12px white;
 }
 
-@media (max-width: 500px) {
-  .posts {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (min-width: 370px) {
-  .bitch {
-    height: 45vh;
-    width: 80vw;
-  }
-}
-
 .bitch {
   height: 66vh;
   width: 48vw;
   margin: auto;
   border-radius: inherit;
   margin-bottom: 16px;
+}
+
+
+@media (max-width: 500px) {
+  .posts {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 562px) {
+  .bitch {
+    height: 44vh;
+    width: 76vw;
+  }
+}
+
+
+#foot {
+  height: 28px;
+  font-size: 13px;
+  text-align: center;
+  margin-top: 23px;
 }

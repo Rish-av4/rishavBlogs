@@ -13,34 +13,57 @@ export default function Home({ posts }) {
   return (
     <>
 
-    <div>
-    
-      <Head >
-        <title>Rishav&apos;s Blog </title>
-      </Head>
-      <h1 className="description" >
-        I have got stories to tell and a life to realize.
-        Welcome mate ;)
-      </h1>
+      <div>
 
-      <div className="posts">
-        {posts.map((post, index) => (
-          <Post key={index} post={post} />
-        ))}
-      </div>
+        <Head >
+          <title>Rishav&apos;s Blog </title>
+        </Head>
+        <h1 className="description" >
+          I have got stories to tell and a life to realize.
+          Welcome mate ;)
+        </h1>
+
+        <div className="posts">
+          {posts.map((post, index) => (
+            <Post key={index} post={post} />
+          ))}
+        </div>
 
 
-      <div className="alert alert-danger" role="alert">
+        {/* <div className="alert alert-danger" role="alert">
         A simple danger alert—check it out!
       </div>
       <div className="alert alert-warning" role="alert">
         A simple warning alert—check it out!
+      </div> */}
+        <div className="circle  " style= {{textAlign:"center"}}>
+          <div className="spinner-grow text-primary mx-2" role="status">
+            <span class="visually-hidden">Loading...</span>
+          </div>
+          <div className="spinner-grow text-secondary mx-2" role="status">
+            <span className="visually-hidden">Loading...</span>
+          </div>
+          <div className="spinner-grow text-success mx-2" role="status">
+            <span className="visually-hidden">Loading...</span>
+          </div>
+          <div className="spinner-grow text-danger mx-2 " role="status">
+            <span className="visually-hidden">Loading...</span>
+          </div>
+          <div className="spinner-grow text-warning mx-2" role="status">
+            <span className="visually-hidden">Loading...</span>
+          </div>
+          {/* <div className="spinner-grow text-info mx-2" role="status">
+            <span className="visually-hidden">Loading...</span>
+          </div>
+          <div className="spinner-grow text-primary mx-2 " role="status">
+            <span className="visually-hidden">Loading...</span>
+          </div>
+          <div className="spinner-grow text-dark mx-2 " role="status">
+            <span className="visually-hidden">Loading...</span>
+          </div> */}
+
+        </div>
       </div>
-
-
-
-
-    </div>
     </>
   );
 }

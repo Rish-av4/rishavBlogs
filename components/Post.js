@@ -6,7 +6,7 @@ import Link from "next/link";
 export default function Post({ post }) {
   // post is prop here
   return (
-    <div className="card">
+    <div className="card" style={{ border: '1px solid black' }}>
 
       <img className="card-ty" id="yo" src={post.frontmatter.cover_image}  alt="" />
 
