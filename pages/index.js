@@ -38,7 +38,7 @@ export default function Home({ posts }) {
       </div> */}
         <div className="circle  " style= {{textAlign:"center"}}>
           <div className="spinner-grow text-primary mx-2" role="status">
-            <span class="visually-hidden">Loading...</span>
+            <span className="visually-hidden">Loading...</span>
           </div>
           <div className="spinner-grow text-secondary mx-2" role="status">
             <span className="visually-hidden">Loading...</span>
