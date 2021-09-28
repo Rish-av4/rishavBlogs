@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import Head from "next/head";
 import Post from "../components/Post";
 import { sortByDate } from "../utils";
+import Typewriter from "typewriter-effect";
 // import { FacebookShareButton,FacebookIcon } from "react-share";
 // import {TwitterShareButton,TwitterIcon} from "react-share";
 
@@ -12,15 +13,14 @@ import { sortByDate } from "../utils";
 export default function Home({ posts }) {
   return (
     <>
-
-      <div>
+    <div>
 
         <Head >
           <title>Rishav&apos;s Blog </title>
         </Head>
+
         <h1 className="description" >
-          I have got stories to tell and a life to realize.
-          Welcome mate ;)
+          quote: Do not gentle into that goodnight :3 ~ D.Thomas
         </h1>
 
         <div className="posts">
@@ -29,14 +29,7 @@ export default function Home({ posts }) {
           ))}
         </div>
 
-
-        {/* <div className="alert alert-danger" role="alert">
-        A simple danger alert—check it out!
-      </div>
-      <div className="alert alert-warning" role="alert">
-        A simple warning alert—check it out!
-      </div> */}
-        <div className="circle  " style= {{textAlign:"center"}}>
+        <div className="circle  " style={{ textAlign: "center" }}>
           <div className="spinner-grow text-primary mx-2" role="status">
             <span className="visually-hidden">Loading...</span>
           </div>
@@ -52,16 +45,6 @@ export default function Home({ posts }) {
           <div className="spinner-grow text-warning mx-2" role="status">
             <span className="visually-hidden">Loading...</span>
           </div>
-          {/* <div className="spinner-grow text-info mx-2" role="status">
-            <span className="visually-hidden">Loading...</span>
-          </div>
-          <div className="spinner-grow text-primary mx-2 " role="status">
-            <span className="visually-hidden">Loading...</span>
-          </div>
-          <div className="spinner-grow text-dark mx-2 " role="status">
-            <span className="visually-hidden">Loading...</span>
-          </div> */}
-
         </div>
       </div>
     </>

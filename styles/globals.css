@@ -195,6 +195,7 @@ ol {
   background: darkslategrey;
   margin-top: 8px;
   box-shadow: 0px 0px 12px white;
+  opacity : 0.8;
 }
 
 .bitch {
@@ -225,4 +226,14 @@ ol {
   font-size: 13px;
   text-align: center;
   margin-top: 23px;
+}
+
+.Typewriter {
+  margin: auto;
+  /* background: azure; */
+  font-size: 45px;
+  font-weight: 100;
+  text-align: center;
+  margin-top: 13px;
+  text-shadow: brown;
 }
