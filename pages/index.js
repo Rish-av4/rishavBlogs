@@ -20,7 +20,7 @@ export default function Home({ posts }) {
         </Head>
 
         <h1 className="description" >
-          quote: Do not gentle into that goodnight :3 ~ D.Thomas
+          quote: Do not go gentle into that goodnight :3 ~ D.Thomas
         </h1>
 
         <div className="posts">
