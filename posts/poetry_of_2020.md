@@ -1,5 +1,5 @@
 ---
-title: 'Poetry Digest and Gist'
+title: 'Poetry of 2020 '
 date: 'September 30, 2021'
 excerpt: 'This section has some poems in it which I have written with all my heart lately.'
 cover_image: '/images/posts/img97.jpeg'

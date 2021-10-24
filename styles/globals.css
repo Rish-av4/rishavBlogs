@@ -191,8 +191,8 @@ ol {
   font-size: 46px;
   padding: 10px;
   border-radius: 2px;
-  color: white;
-  background: darkslategrey;
+  color: rgb(231, 84, 133);
+  /* background: darkslategrey; */
   margin-top: 8px;
   box-shadow: 0px 0px 12px white;
   opacity : 0.8;

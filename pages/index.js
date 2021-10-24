@@ -16,7 +16,9 @@ export default function Home({ posts }) {
     <div>
 
         <Head >
-          <title>Rishav&apos;s Blog </title>
+          {/* <title>Rishav&apos;s Blog </title> */}
+          <title> Lost Niche </title>
+
         </Head>
 
         <h1 className="description" >

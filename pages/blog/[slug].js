@@ -18,7 +18,7 @@ export default function PostPage({ frontmatter: { title, date, cover_image,dummy
                     <div dangerouslySetInnerHTML={{ __html: marked(content) }}>
 
                     </div>
-                <img className="bottom-image" src={dummy_image} alt='' />   
+                {/* <img className="bottom-image" src={dummy_image} alt='' />    */}
                 </div>
             </div>
         </>

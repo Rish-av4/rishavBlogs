@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
                 typewriter.typeString("Hey Welcome to my place💖")
                 .pauseFor(2000)
                 .deleteAll()
-                .typeString("I hope you will love it 🙈💕")
+                .typeString("I hope you will love it 🙈")
                 .start();
           }}
           />

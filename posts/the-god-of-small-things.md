@@ -2,7 +2,7 @@
 title: 'God of Small Things'
 date: 'September 29, 2021'
 excerpt: 'A booker prize recipient Arundhati Roy pens down a history..'
-cover_image: '/images/posts/img98.jpg'
+cover_image: '/images/posts/img77.png'
 # dummy_image: '/images/posts/img11.jpeg'
 ---
 
@@ -10,16 +10,9 @@ cover_image: '/images/posts/img98.jpg'
 nigro cornu genus duris linguae. Super hic deus ego adveniens nullumque Venerem
 equis aurem aliisque celare densis dextramque similis **post**: mihi rexerat;
 bis. -->
+## "It's a book but rare that time offers" would be the best to say. It is deep and clever in context.
+ *Ah! I'd say it has moved me to some extent.* 
 
-## Not all those who wander are lost ~ Tolkien
-So as you are here ,come let us together ponder upon the facts and ethics we often forget when or when-not travelling. Although, Zoya Akhtar's Zindagi Na Milegi Dobara movie or lest should we say a classic cult that just made it to the decade,how unknowingly and slowly revolutionised the whole sector of tourism and life, only us Indians can tell.And fortunately,same is the case with ye jawani hai diwani which portrayed a enthu-peppered group of friends heading hardly towards their passion,seeking adventure and thrill of their life,sometimes climbing a cliff all of a sudden.The irony is that, in the days to come, the evergreen tagline " pahaadon se hun,inse naata hai purana" and many more came into the limelight.At that moment, the word travel met its wholesome existence. You see, how baggage of an impact is created by cinema among teens and youths. Then Life Happened. People began to live more and most in the moment.
+A novel you dream that had it come across early into your hands, it would have been fairly better. The author has brought life to a language of her own which involves a gamut of poetic devices and painful similes to say the least. The grammatical style of hers is a kind I haven't read before. It's a read that asks deliberate patience and continuous presence of heart and mind.The sufferings demonstrated and dingy truths portrayed doesn't makes it easy for you to open the book next time. But still due to the what-next suspense the story finds its way to us. 
 
-## But the things we never think about. Or do you?
-- Is it only your life that matters?
-- What about your family if you travel solo or only with friends.
-- Does Travel become less excited if we got no camera?
-- Is it always worth it?
-
-## Is it only your life that matters?
-
-The plain answer is "NAHH NO". Travel only becomes good when the place you are leaving behind greets you in a happy mannner.The environment and positivity around adds icing to the cake. **Journey becomes a cakewalk**.Let us assume,you have to reach Manali by tomorrow and the pressure from peers is supreme,like bruhh you gotta come no,come of eternity and age no.lol.But do you look after conditions that are at home at that moment of time.Suppose your Grandma is serious but you still want to go trekking at manali,sit by the campfire and enjoying kissing your girlie.But things don't work like that. Doesn't that situation confuse you,makes you awe and think a bit.See,doesn't your grandma's life matter.You just can't say,papa she has lived her life and you please let me live mine.We are desperate in situations like this but as Dr. Watson puts it  **It is what it is**  . Bunny also lost his father,if you are that fanatic about movie just because he had been stuck in snow and glaciers for a week.See we can't change happenings but the memories,like what about his memories with father.Frankly,these instances lead us to denial and utter sadness when we think.You better need to see Shreelancer then. To Be Continued...  
+So the story mainly revolves around Velutha and the two egg-twins who because of chance are called Rahel and Estha. The tale is told through the eyes of Rahel and at times by the narrator. The twins have a mom they called Ammu, a bold and down-to-earth woman.The story is based in a town called Ayemenem in Kerala. The story begins with a bleak note that claims : What had happened to Estha? Why does he kept diving himself into the fearful solace. Sophie Mol is a beautiful, dimpled-face british fairy who in her mother's disguise has come along from abroad to see her father's hometown. She wants to be friends with Rahel and Estha but fate is never too kind to be vouched for. Sophie's father Chacko owns a Paradise Pickles Preserves shop that brings home the money. The story has marxism, inequality, domestic oppression, the us v/s them mindset, India's old caste dynamics and ruthless deeds implanted in it. From police to skilled carpenter everyone gets along with the pages. The way story trudges its way from Mamachi's home to a lonely jungle by the river, resting boat above the river, is just the saddest of all sad. There's a historic house which has witnessed the sayings and heard the scenes of the end. It has survived but the ones who were around it are lost somewhere now. In the end it is happily all about the small things. Velutha and Ammu are the sole carriers of the beauty and goodness these small things posses. The flies, the caterpillars, the love, the setting of making love, the wise choices and hard stands is what gets counts under small things, Arundhati Roy puts.They just stick to the small things. In fact in the problematic world as ours it takes a heart to be at peace with small things. 

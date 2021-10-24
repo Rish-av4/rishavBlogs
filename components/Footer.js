@@ -7,7 +7,7 @@ export default function Footer() {
         <footer>
             <div className="container1">
                 <Link href='/' passHref>
-                    <h2 id="foot">Copyrights @ RP 2021</h2>
+                    <h2 id="foot"> © by Rishav Prashar | 2020 - 21 </h2>
                 </Link>
 
 
