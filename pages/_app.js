@@ -13,10 +13,10 @@ function MyApp({ Component, pageProps }) {
   <Typewriter className="pro"
             onInit ={(typewriter) => {
              
-                typewriter.typeString("Hey Welcome to my place💖")
+                typewriter.typeString("Ayyoo! thanks for swinging by! ^_^")
                 .pauseFor(2000)
                 .deleteAll()
-                .typeString("I hope you will love it 🙈")
+                .typeString("I hope you'd like it. Until the dungeons deep ;__;")
                 .start();
           }}
           />

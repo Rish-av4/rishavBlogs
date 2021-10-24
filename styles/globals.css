@@ -43,7 +43,8 @@ header {
   padding: 13px;
   margin-bottom: 3px;
   text-shadow: 2px 2px 2px black;
-  box-shadow: 2px 1px 11px #86866a;
+  /* box-shadow: 2px 1px 11px #86866a; */
+  box-shadow: 9px 2px 15px #86866a;
 }
 
 header a {
@@ -206,10 +207,44 @@ ol {
   margin-bottom: 16px;
 }
 
+.Typewriter {
+  margin: auto;
+  /* background: azure; */
+  font-size: 45px;
+  font-weight: 100;
+  text-align: center;
+  margin-top: 13px;
+  text-shadow: brown;
+}
+
+#foot {
+  height: 28px;
+  font-size: 13px;
+  text-align: center;
+  margin-top: 23px;
+}
 
 @media (max-width: 500px) {
   .posts {
     grid-template-columns: 1fr;
+  }
+  /* .container{
+    margin-top: 44px;
+  } */
+
+}
+
+@media (max-width :360px)
+{
+  .Typewriter{
+    font-size: 33px;
+  }
+
+  .description{
+    font-size: 30px;
+  }
+  .posts{
+    margin-top: -36px;
   }
 }
 
@@ -221,19 +256,4 @@ ol {
 }
 
 
-#foot {
-  height: 28px;
-  font-size: 13px;
-  text-align: center;
-  margin-top: 23px;
-}
 
-.Typewriter {
-  margin: auto;
-  /* background: azure; */
-  font-size: 45px;
-  font-weight: 100;
-  text-align: center;
-  margin-top: 13px;
-  text-shadow: brown;
-}
