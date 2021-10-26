@@ -1,7 +1,7 @@
 ---
-title: 'Poetry | 2020 '
+title: 'Poetry, 2020 '
 date: 'September 30, 2021'
-excerpt: 'Have a read if you're into this.'
+excerpt: 'Have a read if you are into this.'
 cover_image: '/images/posts/img97.jpeg'
 ---
 

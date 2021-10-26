@@ -1,9 +1,9 @@
 ---
-title: 'The mystery behind Travelling'
+title: 'Travelling'
 date: 'July 16, 2021'
-excerpt: 'To Travel is to Human;'
+excerpt: 'To Travel is to human.'
 cover_image: '/images/posts/img10.jpg'
-dummy_image: '/images/posts/img11.jpeg'
+# dummy_image: '/images/posts/img11.jpeg'
 ---
 
 <!-- Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit

@@ -1,11 +1,11 @@
 ---
-title: 'Poetry | 2021'
+title: 'Poetry, 2021'
 date: 'October 20, 2021'
-excerpt: 'It's all in the head, I know !?!'
+excerpt: ' It is all in the head and I know it. '
 cover_image: '/images/posts/img91.jpeg'
 ---
 
-## The Poems are :
+## Poems are :
 - Hope
 - Remembrance
 - The Void
