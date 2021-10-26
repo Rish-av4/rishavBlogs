@@ -1,15 +1,15 @@
 ---
-title: 'Some of my latest Poems'
+title: 'Poetry | 2021'
 date: 'October 20, 2021'
-excerpt: 'It is all in the head and only comes out when I convert it into poems.'
+excerpt: 'It's all in the head, I know !?!'
 cover_image: '/images/posts/img91.jpeg'
 ---
 
 ## The Poems are :
-1. Hope
-2. Remembrance
-3. The Void
-4. Her muse
+- Hope
+- Remembrance
+- The Void
+- Her muse
 
 
 ## Hope
