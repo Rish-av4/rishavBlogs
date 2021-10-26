@@ -4,12 +4,14 @@ import Script from 'next/script'
 import '../styles/globals.css'
 // import '../styles/Animations.css'
 import Typewriter from 'typewriter-effect'
+import Carousel from '../components/carousel'
 
 function MyApp({ Component, pageProps }) {
   return( 
   <> 
   
   <Header/>
+  {/* <Carousel/> */}
   <Typewriter className="pro"
             onInit ={(typewriter) => {
              

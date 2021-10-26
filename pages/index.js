@@ -22,7 +22,7 @@ export default function Home({ posts }) {
         </Head>
 
         <h1 className="description" >
-          quote: Do not go gentle into that goodnight :3 ~ D.Thomas
+          Do not go gentle into that goodnight :3 ~ D.Thomas
         </h1>
 
         <div className="posts">
@@ -31,7 +31,7 @@ export default function Home({ posts }) {
           ))}
         </div>
 
-        <div className="circle  " style={{ textAlign: "center" }}>
+        {/* <div className="circle  " style={{ textAlign: "center" }}>
           <div className="spinner-grow text-primary mx-2" role="status">
             <span className="visually-hidden">Loading...</span>
           </div>
@@ -47,7 +47,7 @@ export default function Home({ posts }) {
           <div className="spinner-grow text-warning mx-2" role="status">
             <span className="visually-hidden">Loading...</span>
           </div>
-        </div>
+        </div> */}
       </div>
     </>
   );

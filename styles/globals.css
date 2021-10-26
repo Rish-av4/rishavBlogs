@@ -246,8 +246,13 @@ ol {
     font-size: 30px;
   }
   .posts{
-    margin-top: -36px;
+    margin-top: -20px;
   }
+
+  
+.card{
+  margin: -20px -5px;
+}
 }
 
 @media (max-width: 562px) {
@@ -259,3 +264,16 @@ ol {
 
 
 
+
+img{
+  background-image: url(../public/images/posts/img16.jpeg);
+  height: 38vh;
+  width: 200vw;
+  background-repeat: no-repeat;
+  /* background-attachment: inherit; */
+  
+}
+/* 
+.card{
+  margin: -15px -5px;
+} */
