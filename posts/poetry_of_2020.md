@@ -6,12 +6,13 @@ cover_image: '/images/posts/img97.jpeg'
 ---
 
 
-To justify what one feels , what one intro & restrospects, what one experience and what are the reasons that keeps him/her going parallel with the cruel pace of our difficult world, at that moment one begins to write something. At times that become prose, that become poetry , that become a way of living. And one is never alone in this journey of sad and happy. Below is the order of poems, they are presented as.   
+To justify what one feels, what one intro & restrospects, what one experiences and what are the reasons that keeps him/her going parallel with this notorious and difficult world, at that moment one begins to write something. At times that become prose, that become poetry, that become a way of living. And one is never alone in this journey of sad and happy. Below is the order of poems, they are presented as.   
 
 - Stone & River.
 - The Change.
 - Things -- as they were.
 - The Girl.
+- बिस्तर, तकिया और मैं
 
 ## Stone & River
 
@@ -156,5 +157,30 @@ Our arms in-around, there was no pang.</br>
 ## A Brief Evening Time
 
 Beautiful much is her street in the evening, so serene is eye of the heaven that&apos;s slowly heading towards nadir. Wafting birds Are chirping soundly. Itsy-bitsy seems work now. A sense of involvement she observed.
+
+## बिस्तर, तकिया और मैं 💤
+
+
+एक रात अपने बिस्तर पर ना सोया जो मैं, </br>
+अगले दिन यह खफा-खफा सा रहता है मुझसे ;</br>
+आँखें थक हार कर जब सोने हैं लगती , </br>
+यह करवटें कई दफा है लगवाता तब से, मुद्दा "नींद भला आये कैसे" ?! </br>
+
+बेचैन करके मुझे मन-मन ही मुस्कुराते बिस्तर और तकिया , </br>
+तकिये की बात निराली कम्बख्त जल्द ही गर्म हो जाया करता है |</br>
+इसे इस -उस तरफ किये बिना ना रात गुज़रती, </br>
+घर का भूला भूल गया, तकिया चिढ़ाता जैसे;</br>
+अथार्त " नींद भला आये कैसे" ?! </br>
+
+अब माफ़ कर दो और मान भी जाओ ना ! </br>
+तत्पश्चात भूल हुई तो बिस्तर ही बदल दूंगा मैं, </br>
+अवसर शिकायत का न दूंगा कभी,</br>
+सुनकर दोनों घबराये , बतियाऐ , मुस्कुराये फिर कहे :</br>
+जान लेले पर ऐसा न बोल अभी |</br>
+
+तू हमको पूरा करता है,  अब एक रात दूरी सही , तो सह लेंगे ;</br>
+तू न हो तो अपना अर्थ -भावार्थ क्या, जा पथ-निहारे पर लौट कर आना! </br>
+ना होते हम नाराज़ लाज हमारी रख लेना, नींद तुझे पलक झपकते ही आएगी , </br>
+देखना , तू कहेगे , "नींद भला जाए कैसे "?! </br>
 
 

@@ -2,7 +2,7 @@
 title: 'Poetry, 2021'
 date: 'October 20, 2021'
 excerpt: ' It is all in the head and I know it. '
-cover_image: '/images/posts/img91.jpeg'
+cover_image: '/images/posts/img83.jpg'
 ---
 
 ## Poems are :
@@ -94,7 +94,6 @@ the short breathlessness still suffocates,</br>
 not an agora, nor a claustro in phobias -</br>
 but a kind that never vacates.</br>
 
-</br>
 The late hours of dusk scares to its best,</br>
 he juxtaposes and think</br>
 and he concludes no cure, consciously observes :</br>
