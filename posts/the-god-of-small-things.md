@@ -3,9 +3,8 @@ title: 'God of Small Things'
 date: 'September 29, 2021'
 excerpt: 'This is a book everyone should give a try to. Review Inside! '
 cover_image: '/images/posts/img77.png'
-# dummy_image: '/images/posts/img11.jpeg'
 ---
-
+<!-- # dummy_image: '/images/posts/img11.jpeg' -->
 <!-- Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
 nigro cornu genus duris linguae. Super hic deus ego adveniens nullumque Venerem
 equis aurem aliisque celare densis dextramque similis **post**: mihi rexerat;

@@ -233,6 +233,9 @@ ol {
   /* .container{
     margin-top: 44px;
   } */
+  .card.card-page{
+    margin-top: 6px;
+  }
 
 }
 
